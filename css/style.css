@@ -189,7 +189,7 @@ header .current:hover {
 
 #bestsellers img {
   height: 250px;
-  width: 350px;
+  width: 300px;
 }
 
 #bestsellers h3 {
@@ -307,11 +307,7 @@ footer a {
     margin-right: 30px;
   }
 
-  aside#sidebar {
+  aside#sidebar h1{
     margin-left: 0;
-  }
-
-  #bestsellers .in_box {
-    margin-right: 10px;
   }
 }
