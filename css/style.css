@@ -311,7 +311,7 @@ footer a {
     margin-left: 0;
   }
 
-  #bestsellers {
+  #bestsellers .in_box {
     margin-right: 10px;
   }
 }
