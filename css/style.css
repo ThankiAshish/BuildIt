@@ -307,7 +307,11 @@ footer a {
     margin-right: 30px;
   }
 
-  aside#sidebar {}
+  aside#sidebar {
     margin-left: 0;
+  }
+
+  #bestsellers {
+    margin-right: 10px;
   }
 }
