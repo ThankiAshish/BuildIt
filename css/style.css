@@ -307,7 +307,11 @@ footer a {
     margin-right: 30px;
   }
 
-  aside#sidebar h1{
-    margin-left: 0;
+  .page-title {
+    text-align: center;
   }
+
+   #sidebar H1 {
+     text-align: center;
+   }
 }
