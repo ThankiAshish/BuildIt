@@ -185,17 +185,11 @@ header .current:hover {
 
 #bestsellers .in_box {
   flex: 1;
-  margin: 5px;
 }
 
 #bestsellers img {
   height: 250px;
   width: 350px;
-  transition: scale 0.5s;
-}
-
-#bestsellers img:hover {
-  scale: 0.99;
 }
 
 #bestsellers h3 {
