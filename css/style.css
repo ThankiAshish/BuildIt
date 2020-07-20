@@ -308,10 +308,6 @@ footer a {
   }
 
   .page-title {
-    text-align: center;
+    margin-left: 0;
   }
-
-   #sidebar h1 {
-     text-align: center;
-   }
 }
